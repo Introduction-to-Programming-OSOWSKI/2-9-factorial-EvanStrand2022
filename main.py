@@ -1,4 +1,4 @@
-#def function
+#def function2
 def factorial(x):
     total = 1
 
